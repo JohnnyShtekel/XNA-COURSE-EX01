@@ -1,0 +1,32 @@
+C:\cygwin64\home\Ariel\Projects\C16 Ex01 Ariel 201312865 Yoni 301812095\C16 Ex01 Ariel 201312865 Yoni 301812095\bin\Windows\x86\Debug\Content\Sprites\BG_Space01_1024x768.xnb
+C:\cygwin64\home\Ariel\Projects\C16 Ex01 Ariel 201312865 Yoni 301812095\C16 Ex01 Ariel 201312865 Yoni 301812095\bin\Windows\x86\Debug\Content\Sprites\Bullet.xnb
+C:\cygwin64\home\Ariel\Projects\C16 Ex01 Ariel 201312865 Yoni 301812095\C16 Ex01 Ariel 201312865 Yoni 301812095\bin\Windows\x86\Debug\Content\Sprites\Enemy0101_32x32.xnb
+C:\cygwin64\home\Ariel\Projects\C16 Ex01 Ariel 201312865 Yoni 301812095\C16 Ex01 Ariel 201312865 Yoni 301812095\bin\Windows\x86\Debug\Content\Sprites\Enemy0201_32x32.xnb
+C:\cygwin64\home\Ariel\Projects\C16 Ex01 Ariel 201312865 Yoni 301812095\C16 Ex01 Ariel 201312865 Yoni 301812095\bin\Windows\x86\Debug\Content\Sprites\Enemy0301_32x32.xnb
+C:\cygwin64\home\Ariel\Projects\C16 Ex01 Ariel 201312865 Yoni 301812095\C16 Ex01 Ariel 201312865 Yoni 301812095\bin\Windows\x86\Debug\Content\Sprites\MotherShip_32x120.xnb
+C:\cygwin64\home\Ariel\Projects\C16 Ex01 Ariel 201312865 Yoni 301812095\C16 Ex01 Ariel 201312865 Yoni 301812095\bin\Windows\x86\Debug\Content\Sprites\Ship01_32x32.xnb
+C:\cygwin64\home\Ariel\Projects\C16 Ex01 Ariel 201312865 Yoni 301812095\C16 Ex01 Ariel 201312865 Yoni 301812095\bin\Windows\x86\Debug\C16 Ex01 Ariel 201312865 Yoni 301812095.exe
+C:\cygwin64\home\Ariel\Projects\C16 Ex01 Ariel 201312865 Yoni 301812095\C16 Ex01 Ariel 201312865 Yoni 301812095\bin\Windows\x86\Debug\C16 Ex01 Ariel 201312865 Yoni 301812095.pdb
+C:\cygwin64\home\Ariel\Projects\C16 Ex01 Ariel 201312865 Yoni 301812095\C16 Ex01 Ariel 201312865 Yoni 301812095\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\cygwin64\home\Ariel\Projects\C16 Ex01 Ariel 201312865 Yoni 301812095\C16 Ex01 Ariel 201312865 Yoni 301812095\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\cygwin64\home\Ariel\Projects\C16 Ex01 Ariel 201312865 Yoni 301812095\C16 Ex01 Ariel 201312865 Yoni 301812095\bin\Windows\x86\Debug\SharpDX.dll
+C:\cygwin64\home\Ariel\Projects\C16 Ex01 Ariel 201312865 Yoni 301812095\C16 Ex01 Ariel 201312865 Yoni 301812095\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\cygwin64\home\Ariel\Projects\C16 Ex01 Ariel 201312865 Yoni 301812095\C16 Ex01 Ariel 201312865 Yoni 301812095\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\cygwin64\home\Ariel\Projects\C16 Ex01 Ariel 201312865 Yoni 301812095\C16 Ex01 Ariel 201312865 Yoni 301812095\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\cygwin64\home\Ariel\Projects\C16 Ex01 Ariel 201312865 Yoni 301812095\C16 Ex01 Ariel 201312865 Yoni 301812095\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\cygwin64\home\Ariel\Projects\C16 Ex01 Ariel 201312865 Yoni 301812095\C16 Ex01 Ariel 201312865 Yoni 301812095\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\cygwin64\home\Ariel\Projects\C16 Ex01 Ariel 201312865 Yoni 301812095\C16 Ex01 Ariel 201312865 Yoni 301812095\bin\Windows\x86\Debug\SharpDX.RawInput.dll
+C:\cygwin64\home\Ariel\Projects\C16 Ex01 Ariel 201312865 Yoni 301812095\C16 Ex01 Ariel 201312865 Yoni 301812095\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\cygwin64\home\Ariel\Projects\C16 Ex01 Ariel 201312865 Yoni 301812095\C16 Ex01 Ariel 201312865 Yoni 301812095\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\cygwin64\home\Ariel\Projects\C16 Ex01 Ariel 201312865 Yoni 301812095\C16 Ex01 Ariel 201312865 Yoni 301812095\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\cygwin64\home\Ariel\Projects\C16 Ex01 Ariel 201312865 Yoni 301812095\C16 Ex01 Ariel 201312865 Yoni 301812095\bin\Windows\x86\Debug\SharpDX.xml
+C:\cygwin64\home\Ariel\Projects\C16 Ex01 Ariel 201312865 Yoni 301812095\C16 Ex01 Ariel 201312865 Yoni 301812095\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\cygwin64\home\Ariel\Projects\C16 Ex01 Ariel 201312865 Yoni 301812095\C16 Ex01 Ariel 201312865 Yoni 301812095\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\cygwin64\home\Ariel\Projects\C16 Ex01 Ariel 201312865 Yoni 301812095\C16 Ex01 Ariel 201312865 Yoni 301812095\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\cygwin64\home\Ariel\Projects\C16 Ex01 Ariel 201312865 Yoni 301812095\C16 Ex01 Ariel 201312865 Yoni 301812095\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\cygwin64\home\Ariel\Projects\C16 Ex01 Ariel 201312865 Yoni 301812095\C16 Ex01 Ariel 201312865 Yoni 301812095\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\cygwin64\home\Ariel\Projects\C16 Ex01 Ariel 201312865 Yoni 301812095\C16 Ex01 Ariel 201312865 Yoni 301812095\bin\Windows\x86\Debug\SharpDX.RawInput.xml
+C:\cygwin64\home\Ariel\Projects\C16 Ex01 Ariel 201312865 Yoni 301812095\C16 Ex01 Ariel 201312865 Yoni 301812095\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\cygwin64\home\Ariel\Projects\C16 Ex01 Ariel 201312865 Yoni 301812095\C16 Ex01 Ariel 201312865 Yoni 301812095\obj\x86\Debug\C16 Ex01 Ariel 201312865 Yoni 301812095.csprojResolveAssemblyReference.cache
+C:\cygwin64\home\Ariel\Projects\C16 Ex01 Ariel 201312865 Yoni 301812095\C16 Ex01 Ariel 201312865 Yoni 301812095\obj\x86\Debug\C16 Ex01 Ariel 201312865 Yoni 301812095.exe
+C:\cygwin64\home\Ariel\Projects\C16 Ex01 Ariel 201312865 Yoni 301812095\C16 Ex01 Ariel 201312865 Yoni 301812095\obj\x86\Debug\C16 Ex01 Ariel 201312865 Yoni 301812095.pdb
